@@ -12,9 +12,9 @@ Push the boundaries of deep learning methodologies to contribute to the broader 
 
 **Data Preparation:** Load and preprocess the CIFAR-10 dataset.            
 **Model Development:**          
-- Experiment with various deep neural network architectures.          
-- Implement optimization methods such as Adam, SGD, etc.         
-- Utilize regularization techniques to prevent overfitting.                     
+Experiment with various deep neural network architectures.          
+Implement optimization methods such as Adam, SGD, etc.         
+Utilize regularization techniques to prevent overfitting.                     
 **Training and Evaluation:** Train models and evaluate their performance using metrics such as accuracy and loss.         
 **Benchmarking:** Compare the results against existing benchmarks in the literature.          
 
